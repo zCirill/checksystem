@@ -4,6 +4,7 @@
 добавлен листинг установленных пакетов   
 
 Использование   
+Требует запуска из под root или с sudo
 
 Доставить скрипт на целевую машины   
 wget https://raw.githubusercontent.com/zCirill/checksystem/main/system-check.sh   
